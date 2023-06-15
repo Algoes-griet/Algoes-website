@@ -1,0 +1,326 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+.navbar-image {
+    width: 68px;
+    height: 70px;
+    padding: 5px;
+}
+
+#nav-Items-1 {
+    color: #000000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    text-transform: uppercase;
+    background-color: white;
+    font-size: 14px;
+    letter-spacing: 1px;
+    padding: 12px;
+}
+
+#nav-Items-1:hover {
+    color: white;
+    background: #000000;
+    transition: all 0.3s ease-in-out;
+    border-radius: 8px;
+}
+
+#nav-Items-2 {
+    color: #000000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    text-transform: uppercase;
+    background-color: white;
+    font-size: 14px;
+    letter-spacing: 1px;
+    padding: 12px;
+}
+
+#nav-Items-2:hover {
+    color: white;
+    background: #000000;
+    transition: all 0.3s ease-in-out;
+    border-radius: 8px;
+}
+
+#nav-Items-3 {
+    color: #000000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    text-transform: uppercase;
+    background-color: white;
+    font-size: 14px;
+    letter-spacing: 1px;
+    padding: 12px;
+}
+
+#nav-Items-3:hover {
+    color: white;
+    background: #000000;
+    transition: all 0.3s ease-in-out;
+    border-radius: 8px;
+}
+
+#nav-Items-4 {
+    color: #000000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    text-transform: uppercase;
+    background-color: white;
+    font-size: 14px;
+    letter-spacing: 1px;
+    padding: 12px;
+}
+
+#nav-Items-4:hover {
+    color: white;
+    background: #000000;
+    transition: all 0.3s ease-in-out;
+    border-radius: 8px;
+}
+
+#nav-Items-5 {
+    color: #000000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    text-transform: uppercase;
+    background-color: white;
+    font-size: 14px;
+    letter-spacing: 1px;
+    padding: 12px;
+
+}
+
+#nav-Items-5:hover {
+    color: white;
+    background: #000000;
+    transition: all 0.3s ease-in-out;
+    border-radius: 8px;
+}
+
+
+
+
+.aboutsection {
+    /*     margin-top: 195px; 
+    padding-left: 150px;
+    padding-right: 150px; */
+    background-color: #f5f5f5;
+    background-size: cover;
+}
+
+.about-maintext {
+    font-size: 16px;
+    color: #1b1b1b;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight: 500;
+}
+
+.about-subtext {
+    font-size: 60px;
+    color: #007bff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+
+.about-submain {
+    font-size: 16px;
+    color: #1b1b1b;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight: 500;
+    /*padding-top: 80px;*/
+}
+
+.about-para {
+    font-size: 16px;
+    color: #000000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.about-btn {
+    width: 140px;
+    height: 50px;
+    background-color: #007bff;
+    color: #ffffff;
+    /*margin-top: 30px;*/
+    border-width: 0px;
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 30px;
+}
+
+
+
+
+.vision {
+    background-image: url(https://res.cloudinary.com/djdbkqdrc/image/upload/v1679920365/Aloges/Vision-img_vtgczl.jpg);
+    background-size: cover;
+    width: 100%;
+    cursor: pointer;
+}
+
+.vision:hover {
+    mix-blend-mode: hard-light;
+}
+
+.vm-text {
+    color: #ffffff;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 700;
+    font-size: 50px;
+    /* padding-top: 80px; */
+}
+
+
+.vm-para {
+    color: #ffffff;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-style: italic;
+    /* padding-top: 10px; */
+    font-weight: 100;
+}
+
+.mission {
+    background-image: url(https://res.cloudinary.com/djdbkqdrc/image/upload/v1679920365/Aloges/Mission-img_xzq2i9.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+}
+
+.mission:hover {
+    mix-blend-mode: hard-light;
+}
+
+
+
+
+.footer {
+    background-color: #000;
+    background-size: cover;
+    width: 100%;
+}
+
+.footer-main-text {
+    color: #ffffff;
+    /* padding-left: 150px;
+    padding-top: 80px; */
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: 24px;
+}
+
+.footer-span {
+    color: #ffff3f;
+}
+
+.footer-sub-para {
+    color: #fff;
+    /* padding-top: 10px;
+    padding-left: 150px; */
+    font-weight: lighter;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: 16px;
+}
+
+.footer-quick-links:hover {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.last-footer {
+    color: #fff;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.last-footer-link:hover {
+    background-color: #fff;
+    color: #000;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.last-footer-span {
+    font-weight: 600;
+}
+
+
+
+
+
+
+
+
+
+.contact-heading {
+    color: #000;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 36px;
+
+}
+
+.contact-para {
+    font-weight: lighter;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: 16px;
+}
+
+.contact-email {
+    color: #000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.contact-email-link {
+    color: #000;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.contact-email-link:hover {
+    color: #000;
+    text-decoration: none;
+}
+
+
+
+/* .last-footer {
+    background-color: #C53F3F;
+    width: 100%;
+    color: #ffffff;
+    font-size: 14px;
+    text-align: center;
+}
+
+
+
+.last-footer-link:hover {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: 600;
+} */
